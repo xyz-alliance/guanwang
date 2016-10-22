@@ -13,5 +13,7 @@ public class test1 {
         System.out.print(3);
         System.out.print(3);
         System.out.print(3);
+        System.out.print(3);
+        System.out.print(3);
     }
 }
