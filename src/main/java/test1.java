@@ -6,5 +6,8 @@ public class test1 {
         System.out.print(1);
         System.out.print("bb");
         System.out.print(3);
+        System.out.print(3);
+        System.out.print(3);
+        System.out.print(3);
     }
 }
