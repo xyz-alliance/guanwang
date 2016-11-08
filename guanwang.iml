@@ -15,14 +15,15 @@
     <orderEntry type="library" exported="" name="icepdf-core" level="application" />
     <orderEntry type="library" exported="" name="icepdf-viewer" level="application" />
     <orderEntry type="library" exported="" name="itext7-io-7.0.1" level="application" />
-    <orderEntry type="library" name="Maven: com.artofsolving:jodconverter:2.2.1" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.4.3" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:1.3.1" level="project" />
-    <orderEntry type="library" name="Maven: org.openoffice:juh:2.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.openoffice:jurt:2.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.openoffice:ridl:2.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.openoffice:unoil:2.3.0" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:itextpdf:5.4.2" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf.tool:xmlworker:5.4.1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: com.artofsolving:jodconverter:2.2.1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.slf4j:slf4j-api:1.4.3" level="project" />
+    <orderEntry type="library" exported="" name="Maven: commons-io:commons-io:1.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openoffice:juh:2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openoffice:jurt:2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openoffice:ridl:2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openoffice:unoil:2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: com.itextpdf:itextpdf:5.4.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: com.itextpdf.tool:xmlworker:5.4.1" level="project" />
+    <orderEntry type="library" exported="" name="jodconverter-2.2.2-javadoc" level="application" />
   </component>
 </module>
